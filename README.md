@@ -4,10 +4,18 @@
 
 💬  Key highlights:
 
-1. Developed reproducible pipelines for metagenomics, Klebsiella analysis, and SNP detection.
-2. Skilled with SPAdes, Kraken, FastANI, Kleborate, RAxML, BCFtools, and more.
-3. Published in Nature Communications Biology and Vaccines.
-4. Experienced in R, Python, and R Shiny for data analysis & visualization.
+1. Designed and deployed reproducible bioinformatics pipelines for metagenomics, SNP detection, and microbial genome analysis.
+2. Conducted AMR and mutation profiling to support infectious disease research and public health investigations.
+3. Delivered training programs that introduced scientists to sequencing QC, genome assembly, and downstream analyses.
+4. Co-authored peer-reviewed publications in computational biology and vaccine research.
+5. Experienced in translating complex sequencing data into clear, actionable insights for research and healthcare.
+
+🛠️ Languages & Tools
+
+Programming: Python, SQL, R, Groovy, MATLAB
+Workflow management: Nextflow, Docker, Conda
+Genomics Tools: SPAdes, Kraken2, FastANI, Kleborate, RAxML, BCFtools, VCFtools, AMRFinder
+Visualization: R Shiny, ggplot2, IGV
 
 🌱 I’m passionate about creating scalable, accessible bioinformatics tools and applying them to solve challenges in infectious disease and precision medicine.
 
