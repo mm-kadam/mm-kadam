@@ -13,3 +13,8 @@
 
 ✨ Fun fact about me
 When I’m not working with genomes, you’ll usually find me travelling to new cities, hiking in national parks, or trying out local food spots (I’m a big foodie 🍜🍕). And if I’m not out exploring or eating, I’m probably curled up binge-watching a gossipy drama or something sci-fi like Stranger Things.
+
+📫 Connect with me:  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mahikakadam)  
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahika.kadam27@gmail.com)  
